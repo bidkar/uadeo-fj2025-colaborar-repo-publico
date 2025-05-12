@@ -1,1 +1,3 @@
-# uadeo-fj2025-colaborar-repo-publico
+# Colaboración en Repositorio Público
+
+[@bidkar](https://github.com/bidkar)
